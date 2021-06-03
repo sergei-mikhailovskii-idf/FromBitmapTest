@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="document_photos"
+        path="Android/data/com.mikhailovskii.frombitmaptest/files/Pictures" />
+    <external-path
+        name="photos"
+        path="Android/data/com.mikhailovskii.frombitmaptest/files/Pictures" />
+    <external-path
+        name="fotos"
+        path="Android/data/com.mikhailovskii.frombitmaptest/files" />
+</paths>
